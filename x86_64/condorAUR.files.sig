@@ -1,0 +1,1 @@
+condorAUR.files.tar.gz.sig
